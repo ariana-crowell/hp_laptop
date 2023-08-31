@@ -1,0 +1,32 @@
+#apple-1 {
+    background-color:rgb(139, 96, 96);
+    color:lightsalmon;
+}
+
+#apple-2 {
+    background-color:gray;
+    color:whitesmoke;
+}
+
+#macintosh {
+    background-color:lightslategray;
+    color:wheat;
+}
+
+#ibook {
+    background-color:lightgreen;
+    color:green;
+}
+
+#imac {
+    background-color:lightblue;
+    color:blue;
+}
+
+h1 {
+    color:#0e63e1;
+}
+
+.content {
+    background-color:turquoise;
+}

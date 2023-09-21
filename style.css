@@ -28,7 +28,7 @@ h1.homepage{
 }
 
 body{
-    background-color:turquoise;
+    background-color:dodgerblue;
 }
 
 a {
@@ -59,4 +59,14 @@ a {
     font-size:40px;
     font-family:Fantasy;
     text-align:center;
+}
+
+.header:hover {
+    color:skyblue;
+}
+
+img.center {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
 }

@@ -23,10 +23,40 @@
     color:blue;
 }
 
-h1 {
+h1.homepage{
     color:#0e63e1;
 }
 
-.content {
+body{
     background-color:turquoise;
+}
+
+a {
+    text-decoration: none;
+}
+.apple1 {
+    color:lightsalmon;
+}
+
+.apple2 {
+    color:gray;
+}
+
+.macintosh {
+    color:wheat;
+}
+
+.ibook {
+    color:green;
+}
+
+.imac {
+    color:blue;
+}
+
+.header {
+    color:red;
+    font-size:40px;
+    font-family:Fantasy;
+    text-align:center;
 }

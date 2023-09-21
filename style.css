@@ -76,3 +76,7 @@ img.center {
     color:paleturquoise;
     position: relative;
 }
+
+p {
+    text-align:center;
+}
